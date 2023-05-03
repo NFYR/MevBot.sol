@@ -10,7 +10,8 @@ Update 01.05.2023
 Update 03.05.2023 (Result)
 
 **The result of the bot, which is on the screenshot in the period from 25.04 to 03.05**
-**created** 25.04.2023
+--------
+**created bot** 25.04.2023
 ![5](https://user-images.githubusercontent.com/132013213/235938205-1637fe55-6ad0-4c9a-b602-0054bde25685.png)
 ![Stats](https://user-images.githubusercontent.com/132013213/235938032-fca38ac0-c454-4acd-964d-6f7a837f3c4e.png)
 ------------
