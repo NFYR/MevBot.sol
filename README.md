@@ -11,7 +11,7 @@ Update 06.05.2023 (interface import PancakeSwap Router)
 --------
 **created bot** 25.04.2023
 ![5](https://user-images.githubusercontent.com/132013213/235938205-1637fe55-6ad0-4c9a-b602-0054bde25685.png)
-![stats06 05](https://user-images.githubusercontent.com/132013213/236641828-4826db21-6eeb-49fa-87b8-6e25750eb487.png)
+![stats2](https://user-images.githubusercontent.com/132013213/236641927-f8746520-7bea-43a2-ba88-6efbca701719.png)
 
 ------------
 The code was never meant to be shown to anybody. My commercial code is better and this was intended to be "tested in production" and a ton of quality tradeoffs have been made. Never ever did I plan to release this publicly, lest I "leak my alpha". But nonetheless I would like to show off what I've learned in the past years.
