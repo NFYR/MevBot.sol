@@ -11,7 +11,8 @@ Update 06.05.2023 (interface import PancakeSwap Router)
 --------
 ***created bot*** 25.04.2023
 ![5](https://user-images.githubusercontent.com/132013213/235938205-1637fe55-6ad0-4c9a-b602-0054bde25685.png)
-![stats08 05](https://user-images.githubusercontent.com/132013213/236735022-ed750c54-656e-4927-9e43-0d364599edf3.png)
+![stats08 05](https://user-images.githubusercontent.com/132013213/236736354-1ffe4ccd-1b1c-4408-b9ce-3f937de238ba.png)
+
 *Due to the high amount of gas, profit has slightly decreased. However, from the period of May 6th to May 8th, the bot has earned 0.13 ETH.*
 
 
