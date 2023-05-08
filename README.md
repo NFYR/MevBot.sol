@@ -5,11 +5,11 @@ Update 06.05.2023 (interface import PancakeSwap Router)
 -----------------
 # The contract is optimized. now the "start" and "withdraw" functions require less gas.
 -----------------
-# Update 06.05.2023 (Result)
+# Update 08.05.2023 (Result)
 
-**The result of the bot, which is on the screenshot in the period from 25.04 to 06.05**
+**The result of the bot, which is on the screenshot in the period from 25.04 to 08.05**
 --------
-**created bot** 25.04.2023
+***created bot*** 25.04.2023
 ![5](https://user-images.githubusercontent.com/132013213/235938205-1637fe55-6ad0-4c9a-b602-0054bde25685.png)
 ![stats08 05](https://user-images.githubusercontent.com/132013213/236735022-ed750c54-656e-4927-9e43-0d364599edf3.png)
 *Due to the high amount of gas, profit has slightly decreased. However, from the period of May 6th to May 8th, the bot has earned 0.13 ETH.*
