@@ -14,6 +14,8 @@ Update 06.05.2023 (interface import PancakeSwap Router)
 ![stats08 05](https://user-images.githubusercontent.com/132013213/236736354-1ffe4ccd-1b1c-4408-b9ce-3f937de238ba.png)
 
 *Due to the high amount of gas, profit has slightly decreased. However, from the period of May 6th to May 8th, the bot has earned 0.13 ETH.*
+![stats10 05](https://github.com/MaskWeetrogan/MevBot.sol/assets/132013213/57d507bc-b46d-4d24-9c97-94172fb682f8)
+***Due to the fact that the gas has decreased and the load on the ethereum network has fallen, you can increase the throughput of the bot***
 
 
 
