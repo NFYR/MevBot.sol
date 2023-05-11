@@ -1,6 +1,11 @@
 # Created on 04/25/2023 ( Balance 2 ETH)
-# 06/05/2023  (Balance 6.79 ETH)
+![5](https://github.com/MaskWeetrogan/MevBot.sol/assets/132013213/c6d116c1-7397-4ce4-9bcf-c31c7b2e8d5a)
+-------------------------------
+# 06/05/2023 (Balance 6.79 ETH)
+-------------------------------
 # 08/05/2023 (Balance 8.25 ETH)
 ![stats08 05](https://github.com/MaskWeetrogan/MevBot.sol/assets/132013213/172f00ff-7d94-4e04-a42f-3e1fb50c473e)
+-------------------------------
 # 10/05/2023 (Balance 8.48 ETH) But I transferred mine to increase profit (7.1 ETH) 
 ![stats10 05](https://github.com/MaskWeetrogan/MevBot.sol/assets/132013213/87c6a7a8-2990-4f8b-9217-e2a7545a4c13)
+-------------------------------
