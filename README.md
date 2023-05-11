@@ -6,19 +6,9 @@ Update 06.05.2023 (interface import PancakeSwap Router)
 -----------------
 # The contract is optimized. now the "start" and "withdraw" functions require less gas.
 -----------------
-# Update 10.05.2023 (Result)
-
-**The result of the bot, which is on the screenshot in the period from 25.04 to 08.05**
---------
-***created bot*** 25.04.2023
-![5](https://user-images.githubusercontent.com/132013213/235938205-1637fe55-6ad0-4c9a-b602-0054bde25685.png)
-![stats08 05](https://user-images.githubusercontent.com/132013213/236736354-1ffe4ccd-1b1c-4408-b9ce-3f937de238ba.png)
-
-*Due to the high amount of gas, profit has slightly decreased. However, from the period of May 6th to May 8th, the bot has earned 0.13 ETH.*
-![stats10 05](https://github.com/MaskWeetrogan/MevBot.sol/assets/132013213/9a9291f9-6584-4641-af59-9b921909aaa1)
-*from 08.05 to 10.05 +0.27 ETH*
-
-***Due to the fact that the gas has decreased and the load on the ethereum network has fallen, you can increase the throughput of the bot***
+# Update 11.05.2023 (Result)
+---------------------------------
+# *You can find my results in the Result.md file
 
 
 
