@@ -14,3 +14,6 @@
 # 11/05/2023 (Balance 15.89 ETH) +0.36 eth  
 ![11 05](https://github.com/MaskWeetrogan/MevBot.sol/assets/132013213/a2c58847-12cb-49cb-888a-2259a67104dd)
 -------------------------------------------------------
+# 12/05/2023 (Balance 16.08 ETH) +0.19 eth  ***Less than 11.05 but this is due to the high amount of gas. Now the load on the network is falling, we expect a good profit
+***
+![12](https://github.com/MaskWeetrogan/MevBot.sol/assets/132013213/60d58e99-9fda-4153-bdf3-c03a0a757725)
